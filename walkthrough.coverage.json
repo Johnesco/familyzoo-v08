@@ -1,0 +1,13 @@
+{
+  "generated": "derived from the story source",
+  "commands": 134,
+  "understood": 124,
+  "misses": 10,
+  "rooms_swept": 6,
+  "rooms_total": 7,
+  "things_covered": 25,
+  "things_total": 26,
+  "uncovered": [
+    "Alex"
+  ]
+}
