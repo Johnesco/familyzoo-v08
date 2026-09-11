@@ -1,8 +1,8 @@
 {
   "generated": "derived from the story source",
-  "commands": 134,
-  "understood": 124,
-  "misses": 10,
+  "commands": 122,
+  "understood": 119,
+  "misses": 3,
   "rooms_swept": 6,
   "rooms_total": 7,
   "things_covered": 25,

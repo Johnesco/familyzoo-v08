@@ -7,7 +7,7 @@
 # to, and any verb the story defines itself. Refusals are coverage too
 # — taking scenery should fail, and the transcript records that it did.
 #
-# 6 of 7 rooms swept, 25 of 26 things exercised, 134 commands.
+# 6 of 7 rooms swept, 25 of 26 things exercised, 122 commands.
 #
 # Not exercised — held inside a closed thing, carried from the
 # start, or the player character itself: Alex.
@@ -16,7 +16,6 @@
 
 > look
 > x staff keycard
-> i
 > x keycard
 > x welcome sign
 > x sign
@@ -26,15 +25,11 @@
 > x fence
 > x zoo brochure
 > read zoo brochure
-> i
 > x brochure
 > x zoo map
-> i
 > x map
 > x backpack
 > look in backpack
-> look in backpack
-> i
 > x rucksack
 
 ## Main Path
@@ -47,18 +42,14 @@
 > x flower beds
 > x flowers
 > x souvenir penny
-> i
 > x penny
 > x park bench
 > look on park bench
 > x bench
 > x lunchbox
 > look in lunchbox
-> look in lunchbox
-> i
 > x lunch box
 > x juice box
-> i
 > x juice
 > south
 > south
@@ -100,17 +91,9 @@
 > read warning sign
 > x warning
 > x flashlight
-> i
 > x torch
 > south
-> x sugar gliders
-> x gliders
-> x bush babies
-> x galagos
-> x barn owl
-> x owl
 > north
-> open staff gate
 
 ## Main Path
 
@@ -188,8 +171,13 @@
 ## Nocturnal Animals Exhibit
 
 > south
+> x sugar gliders
 > take sugar gliders
+> x gliders
+> x bush babies
 > take bush babies
+> x galagos
+> x barn owl
 > take barn owl
+> x owl
 > score
-> inventory
