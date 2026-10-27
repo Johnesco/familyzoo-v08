@@ -1,10 +1,6 @@
 {
-  "version": 1,
-  "story": "familyzoo-v08",
-  "seed": 42,
   "cards": [
     {
-      "type": "opening",
       "assertions": {
         "channels": [
           {
@@ -16,53 +12,61 @@
             "is": "Sharpee tutorial step 8 — `a room, dark` and carrying your own light source."
           }
         ]
-      }
+      },
+      "id": "egtadnpv",
+      "type": "opening"
     },
     {
-      "type": "boot",
       "assertions": {
         "contains": [
           "Zoo Entrance",
           "Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You st"
         ]
-      }
+      },
+      "id": "zhhcb9b6",
+      "type": "boot"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "Main Path",
           "A wide gravel path winds through the heart of the zoo. Colorful direction signs point ever"
         ]
-      }
+      },
+      "command": "south",
+      "id": "38r6v0zv",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "The staff gate is closed."
         ]
-      }
+      },
+      "command": "south",
+      "id": "v0qa9xwi",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "The staff gate is closed."
         ]
-      }
+      },
+      "command": "south",
+      "id": "1fegfmny",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "x warning sign",
       "assertions": {
         "contains": [
           "You can't see any such thing."
         ]
-      }
+      },
+      "command": "x warning sign",
+      "id": "7gyv0wil",
+      "type": "turn"
     }
-  ]
+  ],
+  "id": "btxvplxd"
 }
