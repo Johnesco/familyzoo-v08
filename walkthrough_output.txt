@@ -394,7 +394,7 @@ The warning sign is fixed in place.
 Taken.
 
 > turn on flashlight
-The flashlight switches on, banishing the darkness.
+You switch on the flashlight.
 
 > south
 Nocturnal Animals Exhibit
